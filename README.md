@@ -1,8 +1,4 @@
 # TypeScript
-<!-- ![image](https://user-images.githubusercontent.com/38081852/87239831-f8f7b100-c3e9-11ea-92df-5d7c8c4458d2.png) -->
-<img width="200px" src="https://user-images.githubusercontent.com/38081852/87239831-f8f7b100-c3e9-11ea-92df-5d7c8c4458d2.png">
-
-
 
 
 ## :computer: How to run
