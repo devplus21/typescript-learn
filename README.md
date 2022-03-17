@@ -1,6 +1,5 @@
 # TypeScript
 
-
 ## :computer: How to run
 
 Clone the repository:
@@ -32,7 +31,6 @@ Next
 ```
 $ tsc -w index
 ```
-
 
 Next
 
